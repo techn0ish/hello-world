@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+HI!
+
+Isuru here, I am undergraduate student. I like to sing. 
